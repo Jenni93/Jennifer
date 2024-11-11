@@ -17,10 +17,7 @@ Asegúrate de tener instaladas las siguientes herramientas:
 ### 1. Clonar el Repositorio
 Clona este repositorio en el directorio raíz de Laragon (por defecto C:\laragon\www):
 
-`git clone https://github.com/tu-repositorio/proyecto-tasacion.git`
-
-`cd proyecto-tasacion`
-
+`git clone https://github.com/Jenni93/Jennifer.git`
 
 ### 2. Ejecutar Migraciones y Seeders
 Crea las tablas necesarias y, si es necesario, genera datos iniciales con seeders.
