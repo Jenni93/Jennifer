@@ -39,7 +39,7 @@ Si es la primera vez que ejecutas la aplicación y la base de datos está vacía
 
 ### 3. Acceder a Laravel Nova
 Accede a Laravel Nova para gestionar el panel administrativo:
-`http://jennifer.test/nova/nova`
+`http://jennifer.test/nova`
 
 ### 4. Visualizar Emails en Mailpit
 Para visualizar las notificaciones de correo, abre Mailpit en Laragon:
@@ -47,8 +47,6 @@ Para visualizar las notificaciones de correo, abre Mailpit en Laragon:
 
 ## Comandos Útiles
 
-Asegúrate de tener instaladas las siguientes herramientas:
-
-- Migrar Base de Datos: php artisan migrate
-- Limpiar Cache: php artisan cache:clear
-- Limpiar Configuración Cache: php artisan config:clear
+- Migrar Base de Datos: `php artisan migrate`
+- Limpiar Cache: `php artisan cache:clear`
+- Limpiar Configuración Cache: `php artisan config:clear`
