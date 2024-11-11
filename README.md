@@ -21,12 +21,14 @@ Clona este repositorio en el directorio raíz de Laragon (por defecto C:\laragon
 
 ### 2. Ejecutar Migraciones y Seeders
 Crea las tablas necesarias y, si es necesario, genera datos iniciales con seeders.
+
 `php artisan migrate --seed`
 
 ## Ejecución del Proyecto
 
 ### 1. Iniciar el Servidor de Desarrollo
 Desde Laragon, ve a Menu > www > proyecto-tasacion o abre una terminal y navega al proyecto para iniciar el servidor:
+
 `php artisan serve`
 
 ### 2. Usuario Predeterminado
